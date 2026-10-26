@@ -1,0 +1,10 @@
+# Saídas geradas — contêm CPF
+arquivos/*.xlsx
+arquivos/*.csv
+*_analisado.*
+!arquivos/*.txt
+
+# Ambiente
+.ipynb_checkpoints/
+__pycache__/
+.venv/
