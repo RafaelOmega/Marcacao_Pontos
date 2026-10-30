@@ -1,6 +1,6 @@
 # Saídas geradas — contêm CPF
 arquivos/*.xlsx
-arquivos/*.csv
+# arquivos/*.csv
 *_analisado.*
 !arquivos/*.txt
 Marcacoes_por_Colaborador*.xlsx
